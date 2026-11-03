@@ -1,0 +1,7 @@
+pyrogram==2.0.106
+TgCrypto
+motor==3.7.1
+pymongo==4.9
+aiofiles
+dnspython
+psutil
