@@ -1,6 +1,0 @@
-Pyrogram==1.4.16 
-TgCrypto
-motor
-https://github.com/Tinche/aiofiles/archive/master.zip
-dnspython
-psutil
